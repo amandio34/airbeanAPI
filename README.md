@@ -52,6 +52,4 @@ curl http://localhost:3000/api/menu
 ## 👥 **Grupp & Bidrag**
 
 Detta projekt utvecklades i grupp som en del av utbildningen.
-Min roll: implementering av databasstruktur och order-endpoints
-
-Originalrepo: [länk till originalrepo här]
+Min roll: implementering av databasstruktur och order-endpoints.
